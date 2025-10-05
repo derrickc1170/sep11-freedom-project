@@ -16,6 +16,7 @@ I watched this video to understand GDevelop:
 <img src="tool/Move.png" alt="Player"/>
 - I created **wall objects** to act as boundaries.
 - I learned how to **add a collision event** so the player cannot go through walls.
+<img src="tool/Collision.png" alt="Player"/>
 - I used **“Collision → Player collides with Wall”**.
 - I set the action to **move the player back or stop movement** to prevent passing through walls.
 Project:
