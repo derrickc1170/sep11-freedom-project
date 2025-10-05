@@ -13,10 +13,10 @@ I watched this video to understand GDevelop:
 - I added a **player character object** to my project.
 
 - I added a **Top-down movement behavior** to the player so it can move around with arrow keys or WASD.
-<img src="tool/Move.png" alt="Player"/>
+<img src="Move.png"/>
 - I created **wall objects** to act as boundaries.
 - I learned how to **add a collision event** so the player cannot go through walls.
-<img src="tool/Collision.png" alt="Player"/>
+<img src="Collision.png"/>
 - I used **“Collision → Player collides with Wall”**.
 - I set the action to **move the player back or stop movement** to prevent passing through walls.
 Challenge I faced was that
