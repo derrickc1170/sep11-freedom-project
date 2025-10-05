@@ -19,6 +19,8 @@ I watched this video to understand GDevelop:
 <img src="tool/Collision.png" alt="Player"/>
 - I used **“Collision → Player collides with Wall”**.
 - I set the action to **move the player back or stop movement** to prevent passing through walls.
+Challenge I faced was that
+-
 Project:
 (https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
 
