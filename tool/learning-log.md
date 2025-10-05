@@ -6,8 +6,18 @@
 
 ---
 
-### X/X/XX:
-* Text
+### 10/2/25
+I watched this video to understand GDevelop:  
+[Beginner’s Guide To GDevelop](https://www.youtube.com/watch?v=595-swNh0Mw)
+
+- I added a **player character object** to my project.
+- I added a **Top-down movement behavior** to the player so it can move around with arrow keys or WASD.  
+- I created **wall objects** to act as boundaries.  
+- I learned how to **add a collision event** so the player cannot go through walls.  
+- I used **“Collision → Player collides with Wall”**.  
+- I set the action to **move the player back or stop movement** to prevent passing through walls.
+
+
 
 ### X/X/XX:
 * Text
