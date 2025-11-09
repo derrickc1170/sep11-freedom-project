@@ -37,10 +37,32 @@ I watched this video to understand GDevelop:
 
 
 
-### X/X/XX:
-* Text
+### 11/1/25:
+#### Progress
+
+I watched this video to learn how to create lighting effects in GDevelop:
+[How To Use The Light Object](https://www.youtube.com/watch?v=NaeOsm1TKiM&utm_source=chatgpt.com)
+
+-  I added a player character object to test lighting.
+-  I experimented with a light source that makes the screen turn dark when the player gets near it.
+
+<img src="FlickerEvent.png" alt="Top-down movement" /> 
+
+-  I learned how to use Lighting layers and Light objects to create a simple effect.
+
+#### Challenges
+
+-  Figuring out how to trigger the darkness based on player position.
+<img src="Menu2.png" alt="Top-down movement" /> 
 
 
+#### Next Steps
+
+- Next, I want to add more interactive light sources that the player can move near or turn on/off.
+
+- Experiment with dynamic and flickering light to create a scarier atmosphere.
+
+[Open in GDevelop](https://gd.games/games/27ac6c1f-c5e1-41a3-aa25-bd1235d68bd7)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
