@@ -58,10 +58,26 @@ I watched this video to learn how to create lighting effects in GDevelop:
 
 #### Next Steps
 
-- Next, I want to add more interactive light sources that the player can move near or turn on/off.
+- Next, I want to add a score in my respwan game to make it more fun.
 
-- Experiment with dynamic and flickering light to create a scarier atmosphere.
+### 11/7/25
+#### Adding Score
+I watch this video to lean how to add score to game in GDevelop:
+[Adding Coins](https://www.youtube.com/watch?v=DfSVeKkNm_o)
+- I added a score variable and a score text object to display it on the screen.
 
+<img src="Menu2.png" alt="Score object" />
+<img src="Menu2.png" alt="Score variable" />
+
+- Next, I added events that increase the score when the player collides with a specific object (like a wall or collectible).
+
+<img src="Menu2.png" alt="Score collision event" />
+#### Challenges
+
+- At first, the score didn’t update correctly and that it wouldn't work. After watching the video, I realized I needed to convert the variable to a string when updating the text object for it to work.
+#### Next Step
+- Add more interactive objects that increase the score by lot  when the player interacts with them.
+- Introduce a gun obstacle that the player must avoid which  if the player is hit, they lose points.
 [Open in GDevelop](https://gd.games/games/27ac6c1f-c5e1-41a3-aa25-bd1235d68bd7)
 <!--
 * Links you used today (websites, videos, etc)
