@@ -38,7 +38,6 @@ I watched this video to understand GDevelop:
 
 
 ### 11/1/25:
-* Text
 #### Progress
 
 I watched this video to learn how to create lighting effects in GDevelop:
