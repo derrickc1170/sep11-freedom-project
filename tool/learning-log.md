@@ -37,7 +37,7 @@ I watched this video to understand GDevelop:
 
 
 
-### X/X/XX:
+### 11/1/25:
 * Text
 #### Progress
 
