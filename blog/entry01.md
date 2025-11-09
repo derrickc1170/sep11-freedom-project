@@ -18,7 +18,7 @@
 * I make that the player respawned same place each time they went out of bounds presented difficulties for me. In order to fix these problems, I tested various scenarios, looked at GDevelop tutorials, and played around with events and conditions until the wall functioned consistently.
 
 #### Creativity
-*I use my creativity to determine how the player should be able to not go through the wall, so there is no error.To determine what felt best for gameplay, I experimented with different movement settings and collision events to make sure the player’s controls worked reliably without bugs.
+* I use my creativity to determine how the player should be able to not go through the wall, so there is no error.To determine what felt best for gameplay, I experimented with different movement settings and collision events to make sure the player’s controls worked reliably without bugs.
 
 
 [Next](entry02.md)
