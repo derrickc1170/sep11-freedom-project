@@ -14,17 +14,17 @@ I watched this video to understand GDevelop:
 
 - I added a **player character object** to my project.  
 - I added a **Top-down movement behavior** to the player so it can move around with arrow keys or WASD.  
-  <img src="Move.png" alt="Top-down movement" />  
+  <img src="/image/Move.png" alt="Top-down movement" />  
 - I created **wall objects** to act as boundaries.  
 - I learned how to **add a collision event** so the player cannot go through walls.  
-  <img src="Collision.png" alt="Collision event" />  
+  <img src="/image/Collision.png" alt="Collision event" />  
 - I used **“Collision → Player collides with Wall”**.  
 - I set the action to *move the player back or stop movement* to prevent passing through walls.  
-  <img src="Position1.png" alt="Player position" />  
+  <img src="/image/Position1.png" alt="Player position" />  
 
 #### Challenges
 - The menu in GDevelop was **confusing at first**, making it hard to find the correct actions and options, like **adding to a variable** or updating the **Text object**.  
-  <img src="Menu.png" alt="GDevelop menu" width="300"/>  
+  <img src="/image/Menu.png" alt="GDevelop menu" width="300"/>  
 
 #### Next Steps
 - Next time, I would try to **add lighting effects** to the game to create a more horror/atmospheric feeling.  
@@ -46,14 +46,14 @@ I watched this video to learn how to create lighting effects in GDevelop:
 -  I added a player character object to test lighting.
 -  I experimented with a light source that makes the screen turn dark when the player gets near it.
 
-<img src="FlickerEvent.png" alt="Top-down movement" /> 
+<img src="/image/FlickerEvent.png" alt="Top-down movement" /> 
 
 -  I learned how to use Lighting layers and Light objects to create a simple effect.
 
 #### Challenges
 
 -  Figuring out how to trigger the darkness based on player position.
-<img src="Menu2.png" alt="Top-down movement" /> 
+<img src="/image/Menu2.png" alt="Top-down movement" /> 
 
 
 #### Next Steps
@@ -67,12 +67,12 @@ I watch this video to lean how to add score to game in GDevelop:
 [Adding Coins](https://www.youtube.com/watch?v=DfSVeKkNm_o)
 - I added a score variable and a score text object to display it on the screen.
 
-<img src="Text.png" alt="Score object" />
-<img src="variable .png" alt="Score variable" />
+<img src="/image/Text.png" alt="Score object" />
+<img src="/image/variable .png" alt="Score variable" />
 
 - Next, I added events that increase the score when the player collides with a specific object (like a wall or collectible).
 
-<img src="Score.png" alt="Score collision event" />
+<img src="/image/Score.png" alt="Score collision event" />
 
 #### Challenges
 
