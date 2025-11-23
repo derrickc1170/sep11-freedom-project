@@ -81,6 +81,17 @@ I watch this video to lean how to add score to game in GDevelop:
 - Add more interactive objects that increase the score by lot  when the player interacts with them.
 - Introduce a gun obstacle that the player must avoid which  if the player is hit, they lose points.
 [Open in GDevelop](https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
+### 11/20/25:
+I just add more stuff to my game where I make object where you touch it it lose point.
+[Video](https://www.youtube.com/watch?v=r_Z8N9asT14)
+- I used a timer to control when bombs appear.Then I started (or reset) a timer called "BadItemSpawnTimer".
+- When this timer reaches the certain time , the game creates a new bomb. I spawned the Bomb at a random position.
+- I used RandomInRange(0, SceneWindowWidth()) and RandomInRange(0, SceneWindowHeight()) that allow the Bomb appears anywhere on the screen. After it spawning a bomb, Code will reset the timer again.
+- This makes the bombs spawn over and over. When the player touches the Bomb, the Bomb gets deleted which allow to  keeps the screen clean,so Bombs don’t pile up.
+-Also I changed the score when a Bomb is touched.
+-It subtracted 10 from the score variable. It will updated my score text.
+- I changed the ScoreText object to display: "Score: " + ToString(Score) to get my result.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
