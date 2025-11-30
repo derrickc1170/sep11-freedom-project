@@ -102,6 +102,18 @@ One challenge I had was learning how to make the bomb appear on the screen by it
 #### Next Step
 My next step is to watch more videos to learn how to make a 3D game instead 2D. I want to understand more advanced tools and features, so I can improve my skills and try making a 3D project in the future.
 [Open in GDevelop](https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
+#### 11/26/25
+I just add new object which it is bullet which allow player to shoot 
+
+-I used the Space key to create a bullet at the player center position, and then I set the bullet to move toward tousing the player’s angle.
+<img src="/image/space.png" alt="Score object" />
+-I also made a collision event so when a Bullet hits a Bomb, both objects get deleted, the Score increases by 10, and the score text updates.
+<img src="/image/delete.png" alt="Score object" />
+#### Challenge 
+At first, I wasn’t sure how to make the bullet direction shoot like same at the player’s angle.
+But I learned I can use Player.Angle() to match the shooting direction.
+#### Next Step 
+- Maybe experiment more thing.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
