@@ -82,7 +82,7 @@ I watch this video to lean how to add score to game in GDevelop:
 - Introduce a gun obstacle that the player must avoid which  if the player is hit, they lose points.
 [Open in GDevelop](https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
 
-### 12/3/25:
+### 11/27/25:
 I just add more stuff to my game where I make object where you touch it it lose point.
 [Video](https://www.youtube.com/watch?v=r_Z8N9asT14)
 - I used a timer to control when bombs appear.Then I started (or reset) a timer called "BadItemSpawnTimer".
@@ -102,7 +102,7 @@ One challenge I had was learning how to make the bomb appear on the screen by it
 #### Next Step
 My next step is to watch more videos to learn how to make a 3D game instead 2D. I want to understand more advanced tools and features, so I can improve my skills and try making a 3D project in the future.
 [Open in GDevelop](https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
-#### 11/26/25
+#### 12/3/25
 I just add new object which it is bullet which allow player to shoot 
 
 -I used the Space key to create a bullet at the player center position, and then I set the bullet to move toward tousing the player’s angle.
