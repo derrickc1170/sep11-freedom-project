@@ -82,7 +82,7 @@ I watch this video to lean how to add score to game in GDevelop:
 - Introduce a gun obstacle that the player must avoid which  if the player is hit, they lose points.
 [Open in GDevelop](https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
 
-### 11/20/25:
+### 12/3/25:
 I just add more stuff to my game where I make object where you touch it it lose point.
 [Video](https://www.youtube.com/watch?v=r_Z8N9asT14)
 - I used a timer to control when bombs appear.Then I started (or reset) a timer called "BadItemSpawnTimer".
