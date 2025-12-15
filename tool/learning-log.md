@@ -114,6 +114,19 @@ At first, I wasn’t sure how to make the bullet direction shoot like same at th
 But I learned I can use Player.Angle() to match the shooting direction.
 #### Next Step 
 - Maybe experiment more thing.
+#### 12/10/25
+I trying to add death screen when you died and lives.
+- I add that when you get hit, your lives goes down
+<img src="/image/lives.png" alt="lives" />
+- when lives goes down, it turn into the ending screen.
+<img src="/image/dead.png" alt="dead" />
+-this is the death look like if it was added.
+<img src="/image/ending.png" alt="ending" />
+
+#### Challenge
+The ending screen was big problem since I am trying to my best to fix this.
+The problem was that the when lives < or = 0, it didn't show the ending screen.
+[Open in GDevelop](https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
