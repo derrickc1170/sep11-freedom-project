@@ -127,6 +127,16 @@ I trying to add death screen when you died and lives.
 The ending screen was big problem since I am trying to my best to fix this.
 The problem was that the when lives < or = 0, it didn't show the ending screen.
 [Open in GDevelop](https://gd.games/games/c4420efc-73d8-42c7-b584-fc75c2c6dd8d)
+#### 1/12/25
+I add coin as new collectable 
+- I add that when if you touch it, you get 1 point
+<img src="/image/coin.png" alt="lives" />
+
+#### Challenege
+The coin for some reason doesn't spawn so I had to adjust the var.
+
+#### Next Step
+I want to add event that affect player.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
