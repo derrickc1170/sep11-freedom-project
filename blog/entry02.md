@@ -2,8 +2,8 @@
 ##### 2/2/26
 ### Content
 During my last blog entry, I have my break where my teacher tell us to doing something with our tool.I start to watched some videos about AI pathfinding in games since I need to learn how I can apply this in my horror game. The videos explained how enemies can track or follow the player instead of just moving left and right.
-First, I created a new game and chose a platformer style so the player could jump and move across the level.
-Next, I added enemies and gave them a variable that makes them move left and right, creating danger for the player.
+First, I created a new game and chose a platformer style , so the player could jump and move across the level.
+Then, I added enemies and gave them a variable that makes them move left and right, creating danger for the player.
 
 <img src="../image/Movement.png" alt="Enemy movement" />
 
