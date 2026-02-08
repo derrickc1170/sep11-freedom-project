@@ -104,12 +104,12 @@ I watch video based on ai pathfinding since I need this on my horror game.
 
 #### Challenge 
 
-I want player to be teleport back to spawn point but player went through the void, so I had to seperate the player with colission with void and enemy.
-It should look like this.
+-I want player to be teleport back to spawn point but player went through the void, so I had to seperate the player with colission with void and enemy.
+-It should look like this.
 <img src="../image/star.png"/>
 
 #### Next Goal 
-I going try learn how to make a game 3D.
+-I going try learn how to make a game 3D.
 
 
 
