@@ -53,6 +53,12 @@
   - [ ] Fix bugs
 
   - [ ] Balance difficulty
+  - [ ] Dynamic lighting changes during chase
+  - [ ] Flickering lights
+
+  - [ ] Random ambient sounds
+
+ Screen effects
 - [ ] Task
   - [ ] Subtask
 
