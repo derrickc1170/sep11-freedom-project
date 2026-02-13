@@ -1,19 +1,58 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Gdevelop
+## Product: Horror Game
 
 ---
 
 ## Timeline
 
 #### MVP
+- [ ] Player Mechanics (2/28)
+  - [ ] Movement (2/18)
+  - [ ] Camera system (2/25)
+  - [ ] Sprint and stamina bar (2/22)
+  - [ ] Health system and game over screen (2/26)
+- [ ] Map Design (3/20)
+  - [ ] Create full level layout (3/10)
+
+  - [ ] Add walls, obstacles, and hiding spots (3/15)
+
+  - [ ] Lighting effects for horror atmosphere (3/20)
+- [ ] Enemy Ai (3/30)
+  - [ ] Basic follow behavior (3/18)
+
+  - [ ] Pathfinding (3/24)
+
+  - [ ] Damage system when caught (3/30)
+- [ ]  Main Objective (4/25)
+  - [ ] Add collectible items(4/10)
+
+  - [ ] Lock + unlock system (4/15)
+
+  - [ ] Win condition (4/20)
+
+  - [ ] Start screen + restart button (4/25)
+
+- [ ] Sound Design (5/30)
+
+  - [ ] Background ambience (5/20)
+
+  - [ ] Footsteps and chase music (5/25) 
+
+  - [ ] Jump scare sound (5/30)
 
 - [ ] Task (deadline: X)
   - [ ] Subtask (deadline: X)
 
 #### Beyond MVP
+- [ ] Testing + Optimization 
 
+  - [ ] Playtesting with friends
+
+  - [ ] Fix bugs
+
+  - [ ] Balance difficulty
 - [ ] Task
   - [ ] Subtask
 
