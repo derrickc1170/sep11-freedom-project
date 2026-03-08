@@ -91,7 +91,7 @@ I just add more stuff to my game where I make object where you touch it it lose 
 -Also I changed the score when a Bomb is touched.
 -It subtracted 10 from the score variable. It will updated my score text.
 - I changed the ScoreText object to display: "Score: " + ToString(Score) to get my result.
-### 1/3/25:
+### 1/3/26:
 I watch video based on ai pathfinding since I need this on my horror game.
 [Video](https://www.youtube.com/watch?v=0aGBYsrGwm0)
 - I create a new game which it is pathformer game
@@ -110,6 +110,18 @@ I watch video based on ai pathfinding since I need this on my horror game.
 
 #### Next Goal 
 -I going try learn how to make a game 3D.
+
+### 2/20/26
+I started to do my game.
+- Set up a camera that follows the player using the Center camera on object action.
+<img src="../image/camera.png" alt="camera" />  
+- Added a sprint mechanic using LShift with a stamina variable.
+<img src="../image/shift.png" alt="speed" /> 
+- Built a health variable with a visual health bar that scales with the player's health.
+<img src="../image/health.png" alt="hp" /> 
+
+#### Next Goal 
+- I will try make the map for the player.
 
 
 
