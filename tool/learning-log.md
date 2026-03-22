@@ -123,6 +123,15 @@ I started to do my game.
 #### Next Goal 
 - I will try make the map for the player.
 
+### 3/20/26
+I started working at the map.
+
+The map look like this 
+
+<img src="../image/map.png" alt="camera" />  
+#### Next Goal
+-I would i add more thing.
+
 
 
 <!--
