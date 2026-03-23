@@ -132,6 +132,9 @@ The map look like this
 #### Next Goal
 -I would i add more thing.
 
+3/23/26
+I start learn how make go to different event and different scene.
+
 
 
 <!--
