@@ -135,6 +135,13 @@ The map look like this
 3/23/26
 I start learn how make go to different event and different scene.
 
+3/25/26
+I started to improve my map and add some tree and grass.
+<img src="../image/improve.png" alt="camera" />  
+Also I add border which make player not go over the border.
+<img src="../image/wall.png" alt="camera" />  
+#### Next Goal
+- add new thing.
 
 
 <!--
