@@ -24,26 +24,11 @@
 
   - [ ] Pathfinding (3/24)
 
-  - [ ] Damage system when caught (3/30)
 - [ ]  Main Objective (4/25)
-  - [ ] Add collectible items(4/10)
-
-  - [ ] Lock + unlock system (4/15)
 
   - [ ] Win condition (4/20)
 
   - [ ] Start screen + restart button (4/25)
-
-- [ ] Sound Design (5/30)
-
-  - [ ] Background ambience (5/20)
-
-  - [ ] Footsteps and chase music (5/25) 
-
-  - [ ] Jump scare sound (5/30)
-
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
 
 #### Beyond MVP
 - [ ] Testing + Optimization 
@@ -61,6 +46,9 @@
  Screen effects
 - [ ] Task
   - [ ] Subtask
+  - [ ] Footsteps and chase music (5/25) 
+
+  - [ ] Jump scare sound (5/30)
 
 
 <!-- EXAMPLE
