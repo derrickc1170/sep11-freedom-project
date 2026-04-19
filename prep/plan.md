@@ -24,11 +24,11 @@
 
   - [ ] Pathfinding (3/24)
 
-- [ ]  Main Objective (4/25)
+- [ ]  Main Objective (4/10)
 
-  - [ ] Win condition (4/20)
+  - [ ] Win condition (4/10)
 
-  - [ ] Start screen + restart button (4/25)
+  - [ ] Start screen + restart button (4/10)
 
 #### Beyond MVP
 - [ ] Testing + Optimization 
