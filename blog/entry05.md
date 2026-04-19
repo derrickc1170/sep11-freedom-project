@@ -23,10 +23,9 @@ After Code:
 Currently, I completed the testing and prototyping stage of the engineering design process. I finished mvp which building out all of my game mechanics, including a sprint system with stamina management, a health bar, and a Game Over screen. My map design is also fully complete. My next step to go beyond mvp.
 ### Skill
 #### Problem Solving
-I showed problem solving when fixing my sprint mechanic. I figured out the correct inverted condition for stamina recharging and worked out the right formula to make the health bar shrink properly.
-
+I showed problem solving by troubleshooting my map, enemy AI, and game mechanics, adjusting my code until everything worked correctly.
 #### Creativity
-I showed creativity by designing a stamina system that drains while sprinting and recharges when you stop, and a health system that triggers a Game Over screen when the player runs out of health.
+I showed creativity by designing a horror-themed game with a full map, enemy AI, sprint and stamina system, health bar, and a complete objective system.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
