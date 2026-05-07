@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Have you wonder what is scary thing in a game?
 
 ## Product
-* 
+* The Link of game and I speedrun the game.
 
 ## Process
-* 
+* My MVP.
 
 ## Conclusion
-* 
+* Takeaway.
 
 <!-- EXAMPLE
 
