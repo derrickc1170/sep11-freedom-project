@@ -1,5 +1,6 @@
 # Entry 6
-##### X/X/XX
+##### 5/29/26
+In this Blog Entry,I present my freedom project to my class and to other people.
 
 Text
 
