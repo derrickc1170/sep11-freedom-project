@@ -1,22 +1,28 @@
 # SEP11 Freedom Project
-by **X**
+by **Derrick Chen**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP11 is a year-long project all about making something using JavaScript along with a third-party JS tool.
 
-For my project, I chose to independently study **X** in order to help me make **X**.
+For my project, I chose to independently study GDevelop which it is no-code and low-code game engine, in order to help me create a 2D game with interactive mechanics, animations, and event-based logic.
 
 ## Links
 
-[Product]()
+[Product](https://gd.games/games/72bcac7d-88c9-43ec-a761-c179c0c3e44d)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1NMNjtmhFUmM68RW1fTMc2EBL1Zp9FfrcmEKBQkKuqc4/edit?usp=sharing)
 
 ## Implications
 ##### PROS
-* 
+* Makes game development more accessible without heavy coding
+* Allows rapid prototyping of ideas and gameplay mechanics
+* Helps build logic thinking through event-based systems
+* Good for creating 2D games, stories, and interactive experiences
 ##### CONS
-* 
+* Limited flexibility compared to full coding engines
+* Some advanced features require workarounds
+* Performance can depend on how complex the project becomes
+* Less industry-standard coding practice compared to pure JavaScript engines
 
 
 ## Blog
